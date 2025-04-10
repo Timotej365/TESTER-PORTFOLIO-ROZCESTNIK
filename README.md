@@ -7,8 +7,13 @@ Nájdeš tu ukážky projektov z oblasti manuálneho testovania, základov Pytho
 
 ## 📂 Projekty
 
-- ✅ [Task Manager](https://github.com/Timotej365/task-manager)  
+- ✅ [Task Manager 1.0](https://github.com/Timotej365/task-manager)  
   Miniaplikácia v Pythone na správu úloh. Obsahuje manuálne testy, README s návodom a Git workflow.
+
+- 🚀 [Task Manager 1.1 (DB verzia)](https://github.com/Timotej365/TASK-MANAGER-1.1)  
+  Vylepšená verzia s databázou MySQL, CRUD operáciami a validáciou vstupov. Konzolové menu má 5 možností.  
+  Vhodné pre ukážku práce s databázou a Python logikou.
+
 
 - 🧪 [Tester Adventure (textová hra)](https://github.com/Timotej365/tester-adventure)  
   Hra z prostredia „jaskyne testera“ s otázkami z teórie testovania. Zameraná na cykly, podmienky a logiku v Pythone.
