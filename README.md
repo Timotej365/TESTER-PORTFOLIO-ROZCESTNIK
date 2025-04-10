@@ -14,7 +14,6 @@ Nájdeš tu ukážky projektov z oblasti manuálneho testovania, základov Pytho
   Vylepšená verzia s databázou MySQL, CRUD operáciami a validáciou vstupov. Konzolové menu má 5 možností.  
   Vhodné pre ukážku práce s databázou a Python logikou.
 
-
 - 🧪 [Tester Adventure (textová hra)](https://github.com/Timotej365/tester-adventure)  
   Hra z prostredia „jaskyne testera“ s otázkami z teórie testovania. Zameraná na cykly, podmienky a logiku v Pythone.
 
@@ -37,7 +36,7 @@ Mám záujem o testerskú pozíciu. Venujem sa manuálnemu testovaniu, učím sa
 ## 📇 Kontakt
 
 GitHub: [@Timotej365](https://github.com/Timotej365)  
-Email: *(voliteľné)*  
-LinkedIn: *(voliteľné)*
+Email: timotejsebest540@gmail.com 
+LinkedIn: http://linkedin.com/in/timotej-šebest-94b513356
 
 ---
