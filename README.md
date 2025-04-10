@@ -36,7 +36,8 @@ Mám záujem o testerskú pozíciu. Venujem sa manuálnemu testovaniu, učím sa
 ## 📇 Kontakt
 
 GitHub: [@Timotej365](https://github.com/Timotej365)  
-Email: timotejsebest540@gmail.com 
-LinkedIn: http://linkedin.com/in/timotej-šebest-94b513356
+Email: timotejsebest540@gmail.com  
+LinkedIn: [timotej-šebest](http://linkedin.com/in/timotej-šebest-94b513356)
+
 
 ---
