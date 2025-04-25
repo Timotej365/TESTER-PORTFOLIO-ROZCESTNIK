@@ -43,4 +43,4 @@ Toto portfólio slúži ako ukážka mojich schopností a projektov, na ktorých
 
 - GitHub: [Timotej365](https://github.com/Timotej365)
 - LinkedIn: [Timotej Šebest](https://www.linkedin.com/in/timotej365/)
-- E-mail: [tvoj.email@example.com](mailto:tvoj.email@example.com)
+- E-mail: [timotejsebest540@gmail.com](mailto:timotejsebest540@gmail.com)
