@@ -12,7 +12,7 @@ Nájdeš tu ukážky projektov z oblasti manuálneho testovania, základov Pytho
 
 - ✅ [Task Manager 1.1 (DB verzia)](https://github.com/Timotej365/task-manager-1.1)  
   Vylepšená verzia s databázou MySQL, CRUD operáciami a validáciou vstupov. Konzolové menu má 5 možností.  
-  Vhodné pre ukážku práce s databázou a Python logikou. SQL testy budú doplnené formou prtsc (simulované testovanie DB).
+  Vhodné pre ukážku práce s databázou a Python logikou. SQL testy doplnené formou tabuľky (simulované testovanie DB).
 
 - ✅ [Task Manager 2.0 (API verzia)](https://github.com/Timotej365/TASK_MANAGER-2.0)  
   Rozšírená verzia prepájajúca konzolovú aplikáciu s REST API vo Flasku a databázou MySQL.  
