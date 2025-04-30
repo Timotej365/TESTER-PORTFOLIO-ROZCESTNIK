@@ -28,7 +28,7 @@ Nájdeš tu ukážky projektov z oblasti manuálneho testovania, základov Pytho
 
 - 🟡 SQL test cases (simulované testovanie priamo v Task Manager 1.1 cez snímky a popisy)
 - 🟡 Pytest testy pre Task Manager 1.1 a 2.0
-- 🟡 React frontend a Playwright testy (Task Manager 2.0)
+- 🟡 Playwright testy (Task Manager 2.0)
 
 ---
 
