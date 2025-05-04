@@ -1,7 +1,7 @@
 # 🧪 Timotej Šebest – Tester Portfolio
 
-Vitaj v mojom testerskom portfóliu!  
-Nájdeš tu ukážky projektov z oblasti manuálneho testovania, základov Pythonu, Gitu, práce s API a databáz.
+Vitaj v mojom testerskom portfóliu!
+Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testovania, práce s API, databázami a frontendom.
 
 ---
 
