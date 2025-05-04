@@ -16,13 +16,14 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 - ✅ [Task Manager 2.0 (API verzia)](https://github.com/Timotej365/TASK_MANAGER-2.0)  
   Rozšírená verzia prepájajúca konzolovú aplikáciu s REST API vo Flasku a databázou MySQL.  
-  Obsahuje Postman testy a README.Automatizované testy boli vytvorené pomocou pytest, vrátane mock testov vstupov.
+  Obsahuje Postman testy a README. Automatizované testy boli vytvorené pomocou pytest, vrátane mock testov vstupov.
   Refaktorovaná backend logika pre jednoduchšie testovanie.
   Frontend v Reacte (zmena stavu úlohy, mazanie).
+  
  🧪 Testovanie API a backend logiky je súčasťou tohto projektu.
  🧪 Pripravená štruktúra pre Playwright testovanie React aplikáci
 
-  Plánuje sa doplnenie Pytest, React frontendu a Playwright E2E testov.  
+  Plánuje sa doplnenie Playwright E2E testov.  
   🧪 **API testovanie je súčasťou tohto projektu**.
 
 - ✅ [Tester Adventure (textová hra)](https://github.com/Timotej365/TESTER-ADVENTURE)  
@@ -32,8 +33,6 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ## 📊 Plánované alebo doplnkové projekty
 
-- 🟡 SQL test cases (simulované testovanie priamo v Task Manager 1.1 cez snímky a popisy)
-- 🟡 Pytest testy pre Task Manager 1.1 a 2.0
 - 🟡 Playwright testy (Task Manager 2.0)
 
 ---
