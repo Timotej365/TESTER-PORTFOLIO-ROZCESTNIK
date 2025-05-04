@@ -7,24 +7,23 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ## 📁 Projekty
 
-- ✅ [Task Manager 1.0](https://github.com/Timotej365/task-manager-1.0)  
-  Miniaplikácia v Pythone na správu úloh. Obsahuje manuálne testy, README s návodom a Git workflow.
-
-- ✅ [Task Manager 1.1 (DB verzia)](https://github.com/Timotej365/task-manager-1.1)  
-  Vylepšená verzia s databázou MySQL, CRUD operáciami a validáciou vstupov. Konzolové menu má 5 možností.  
-  Vhodné pre ukážku práce s databázou a Python logikou. SQL testy doplnené formou tabuľky (simulované testovanie DB).
-
 - ✅ [Task Manager 2.0 (API verzia)](https://github.com/Timotej365/TASK_MANAGER-2.0)  
   Rozšírená verzia prepájajúca konzolovú aplikáciu s REST API vo Flasku a databázou MySQL.  
   Obsahuje Postman testy a README. Automatizované testy boli vytvorené pomocou pytest, vrátane mock testov vstupov.
   Refaktorovaná backend logika pre jednoduchšie testovanie.
   Frontend v Reacte (zmena stavu úlohy, mazanie).
   
- 🧪 Testovanie API a backend logiky je súčasťou tohto projektu.
- 🧪 Pripravená štruktúra pre Playwright testovanie React aplikáci
+   🧪 Testovanie API a backend logiky je súčasťou tohto projektu.
+ 
+   🧪 Pripravená štruktúra pre Playwright testovanie React aplikáci
 
-  Plánuje sa doplnenie Playwright E2E testov.  
-  🧪 **API testovanie je súčasťou tohto projektu**.
+- ✅ [Task Manager 1.1 (DB verzia)](https://github.com/Timotej365/task-manager-1.1)  
+  Vylepšená verzia s databázou MySQL, CRUD operáciami a validáciou vstupov. Konzolové menu má 5 možností.  
+  Vhodné pre ukážku práce s databázou a Python logikou. SQL testy doplnené formou tabuľky (simulované testovanie DB).
+
+- ✅ [Task Manager 1.0](https://github.com/Timotej365/task-manager-1.0)  
+  Miniaplikácia v Pythone na správu úloh. Obsahuje manuálne testy, README s návodom a Git workflow.
+
 
 - ✅ [Tester Adventure (textová hra)](https://github.com/Timotej365/TESTER-ADVENTURE)  
   Hra z prostredia „jaskyne testera“ s otázkami z teórie testovania. Zameraná na cykly, podmienky a logiku v Pythone.
