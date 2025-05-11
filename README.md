@@ -7,6 +7,17 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ## 📁 Projekty
 
+## 📌 Task Manager 2.1 (React + Flask + MySQL)
+
+Plne nasadená webová aplikácia na správu úloh s registráciou, prihlásením a CRUD operáciami.  
+Používateľ má vlastný účet, úlohy sú ukladané do cloudovej databázy.  
+Frontend je nasadený na Verceli, backend na Renderi, databáza hostovaná na Aivene.
+
+- 🖥️ Frontend: [https://task-manager-2-1.vercel.app](https://task-manager-2-1.vercel.app)
+- 💻 GitHub repo: [https://github.com/Timotej365/task-manager-2.1](https://github.com/Timotej365/task-manager-2.1)
+
+---
+
 - ✅ [Task Manager 2.0 (API verzia)](https://github.com/Timotej365/TASK_MANAGER-2.0)  
   Rozšírená verzia prepájajúca konzolovú aplikáciu s REST API vo Flasku a databázou MySQL.  
   Obsahuje Postman testy a README. Automatizované testy boli vytvorené pomocou pytest, vrátane mock testov vstupov.
@@ -32,7 +43,7 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ## 📊 Plánované alebo doplnkové projekty
 
-- 🟡 Playwright testy (Task Manager 2.0)
+- 🟡 Playwright testy (Task Manager 2.1)
 
 ---
 
