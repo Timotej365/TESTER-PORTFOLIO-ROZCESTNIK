@@ -13,6 +13,8 @@ Plne nasadená webová aplikácia na správu úloh s registráciou, prihlásení
 Používateľ má vlastný účet, úlohy sú ukladané do cloudovej databázy.  
 Frontend je nasadený na Verceli, backend na Renderi, databáza hostovaná na Aivene.
 
+> ℹ️ **Poznámka:** Backend beží na platforme Render v rámci bezplatného plánu. Po cca 15 minútach nečinnosti môže dôjsť k jeho uspatiu, čo môže spôsobiť pomalšie načítanie pri prvom prístupe. Frontend (Vercel) zostáva stále dostupný.
+
 - 🖥️ Frontend: [https://task-manager-2-1.vercel.app](https://task-manager-2-1.vercel.app)
 - 💻 GitHub repo: [https://github.com/Timotej365/task-manager-2.1](https://github.com/Timotej365/task-manager-2.1)
 
