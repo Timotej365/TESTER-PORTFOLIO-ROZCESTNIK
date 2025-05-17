@@ -7,11 +7,12 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ## 📁 Projekty
 
-## 📌 Task Manager 2.1 (React + Flask + MySQL)
+## 📌 Task Manager 2.1 (React + Flask + MySQL + playwright)
 
-Plne nasadená webová aplikácia na správu úloh s registráciou, prihlásením a CRUD operáciami.  
-Používateľ má vlastný účet, úlohy sú ukladané do cloudovej databázy.  
-Frontend je nasadený na Verceli, backend na Renderi, databáza hostovaná na Aivene.
+- Plne nasadená webová aplikácia na správu úloh s registráciou, prihlásením a CRUD operáciami.  
+- Používateľ má vlastný účet, úlohy sú ukladané do cloudovej databázy.  
+- Frontend je nasadený na Verceli, backend na Renderi, databáza hostovaná na Aivene.
+- Kompletné E2E testy pomocou **Playwright (Python)** pre overenie funkčnosti prihlasovania, registrácie a CRUD operácií vo frontende.
 
 > ℹ️ **Poznámka:** Backend beží na platforme Render v rámci bezplatného plánu. Po cca 15 minútach nečinnosti môže dôjsť k jeho uspatiu, čo môže spôsobiť pomalšie načítanie pri prvom prístupe. Frontend (Vercel) zostáva stále dostupný.
 
