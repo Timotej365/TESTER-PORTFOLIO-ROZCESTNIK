@@ -44,12 +44,6 @@ Nájdeš tu ukážky projektov z oblasti manuálneho a automatizovaného testova
 
 ---
 
-## 📊 Plánované alebo doplnkové projekty
-
-- 🟡 Playwright testy (Task Manager 2.1)
-
----
-
 ## 👨‍💻 O mne
 
 Mám záujem o testerskú pozíciu. Venujem sa manuálnemu testovaniu, učím sa automatizáciu, Git, Postman, základy SQL a Pythonu.  
